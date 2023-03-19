@@ -8,5 +8,6 @@
 - Step 2:Importing data-set
 - Step 3:Exploring about data-set
 - Step 4:Feature extraction
-- Step 5:Applying K means clustering on the data
-- Step 6: Visualising the clusters
+- Step-5 Finding optimal no. of Clusters using Elbow Method
+- Step 6:Applying K means clustering on the data
+- Step 7: Visualising the clusters
